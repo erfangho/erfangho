@@ -26,7 +26,7 @@
   <li> <h3>Charity aid allocation system.</h3>Developed a Laravel API-based system to streamline aid allocation for charities. Enabled efficient management of agents and allocation of resources to aid seekers.</i></li>
 </ul>
 
-<h1>Stats</h1>
+# Stats:
 ![stat](https://github-readme-stats.vercel.app/api?username=erfangho&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 <h1>Feel free to contact me</h1>
