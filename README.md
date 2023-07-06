@@ -27,9 +27,11 @@
 </ul>
 
 # Stats:
+<div class="center-align">
 ![stat](https://github-readme-stats.vercel.app/api?username=erfangho&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erfangho&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erfangho&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 <h1>Feel free to contact me</h1>
 <a href="https://t.me/Erfanemune" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40erfanemune-28a8ea"></a>
