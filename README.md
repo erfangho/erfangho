@@ -27,7 +27,7 @@
 
 <h1>Feel free to contact me</h1>
 <a href="https://t.me/Erfanemune" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40erfanemune-28a8ea"></a>
-<a rel="me" href="https://instagram.com/erfanemun___" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40erfanemune___-blueviolet"></a>
+<a rel="me" href="https://instagram.com/erfanemun___" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40erfanemune___blueviolet"></a>
 <a href="https://www.linkedin.com/in/erfan-ghorbani-339762190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Erfan Ghorbani-informational"></a>
 
 
