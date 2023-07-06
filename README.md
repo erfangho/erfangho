@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Erfan, Back-End developer</b>. </p>
-<h3>Things and tools that i work with</h3>
+
+<h1>Things and tools that i work with</h1>
 
 ![PHP](https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white)
