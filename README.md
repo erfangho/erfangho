@@ -17,11 +17,11 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=white)
 
-<h2>My latest projects</h2>
+<h1>My latest projects</h2>
 <ul>
-  <li> <h3>Medical Science Platform (private repository)</h3></br>The project aims to develop an integrated learning platform that caters to the needs of professionals in the fields of medicine, nursing, and language proficiency, specifically IELTS.</i></li>
-  <li> <h3>Management and monitoring of temperature devices (private repository)</h3></br>comprehensive management and monitoring system for temperature devices using Laravel (REST API).</i></li>
-  <li> <h3>Charity aid allocation system.</h3></br>Developed a Laravel API-based system to streamline aid allocation for charities. Enabled efficient management of agents and allocation of resources to aid seekers.</i></li>
+  <li> <h3>Medical Science Platform (private repository)</h3>The project aims to develop an integrated learning platform that caters to the needs of professionals in the fields of medicine, nursing, and language proficiency, specifically IELTS.</i></li>
+  <li> <h3>Management and monitoring of temperature devices (private repository)</h3>comprehensive management and monitoring system for temperature devices using Laravel (REST API).</i></li>
+  <li> <h3>Charity aid allocation system.</h3>Developed a Laravel API-based system to streamline aid allocation for charities. Enabled efficient management of agents and allocation of resources to aid seekers.</i></li>
 </ul>
 
 
