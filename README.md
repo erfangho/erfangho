@@ -8,6 +8,8 @@
 ![Python](https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=tmux&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![Composer](https://img.shields.io/badge/-Composer-gray?style=flat-square&logo=composer&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-45b8d8?style=flat-square&logo=PostgreSql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
